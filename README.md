@@ -1,3 +1,4 @@
 # Repository for my tweaks
 ## TWEAKLIST
-BreadcrumbsBeGone
+### BreadcrumbsBeGone
+    Disables breadcrumbs on iOS.
